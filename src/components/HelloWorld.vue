@@ -21,7 +21,7 @@
                   <span
                     :class="[$vuetify.breakpoint.smAndDown ? 'display-3': 'display-4']"
                     class="font-weight-black"
-                  >STRING DEV</span>
+                  >STRING DEV KKK</span>
                 </v-col>
 
                 <v-btn class="align-self-end" fab outlined @click="$vuetify.goTo('#about-me')">
